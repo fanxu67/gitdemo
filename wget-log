@@ -1,6 +1,0 @@
---2019-11-06 16:28:00--  https://www.google.com/search?q=coffee
-Resolving www.google.com (www.google.com)... 172.217.13.228, 2607:f8b0:4004:c09::93
-Connecting to www.google.com (www.google.com)|172.217.13.228|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-2019-11-06 16:28:02 ERROR 403: Forbidden.
-
